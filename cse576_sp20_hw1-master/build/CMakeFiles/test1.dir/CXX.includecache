@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/image.h
+cassert
+-
+cstring
+-
+cmath
+-
+algorithm
+-
+string
+-
+vector
+-
+stdexcept
+-
+utils.h
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/utils.h
+
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/test/test1.cpp
+../image.h
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/image.h
+../utils.h
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/utils.h
+string
+-
+
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/utils.h
+vector
+-
+string
+-
+chrono
+-
+thread
+-
+mutex
+-
+

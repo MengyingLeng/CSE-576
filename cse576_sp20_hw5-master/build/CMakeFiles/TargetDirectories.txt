@@ -1,0 +1,12 @@
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/CMakeFiles/make-panorama.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/CMakeFiles/edit_cache.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/CMakeFiles/test5.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/CMakeFiles/test1.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/CMakeFiles/test2.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/CMakeFiles/rebuild_cache.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/CMakeFiles/uwimg++.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/src/pango/CMakeFiles/projections.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/src/pango/CMakeFiles/rebuild_cache.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/src/pango/CMakeFiles/edit_cache.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/src/pango/CMakeFiles/panorama.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw5-master/build/src/pango/CMakeFiles/harris.dir

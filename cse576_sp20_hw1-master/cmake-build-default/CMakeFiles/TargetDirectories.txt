@@ -1,0 +1,5 @@
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/CMakeFiles/rebuild_cache.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/CMakeFiles/edit_cache.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/CMakeFiles/test1.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/CMakeFiles/test0.dir
+/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/CMakeFiles/uwimg++.dir

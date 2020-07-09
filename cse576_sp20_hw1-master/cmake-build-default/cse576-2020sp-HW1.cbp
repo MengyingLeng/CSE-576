@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cse576-2020sp-HW1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test1">
+				<Option output="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 test1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test1/fast">
+				<Option output="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 test1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test0">
+				<Option output="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/test0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 test0"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test0/fast">
+				<Option output="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/test0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 test0/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uwimg++">
+				<Option output="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/libuwimg++.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 uwimg++"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uwimg++/fast">
+				<Option output="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/libuwimg++.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 uwimg++/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/access_image.cpp">
+			<Option target="uwimg++"/>
+		</Unit>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/image.h">
+			<Option target="uwimg++"/>
+		</Unit>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/load_image.cpp">
+			<Option target="uwimg++"/>
+		</Unit>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/process_image.cpp">
+			<Option target="uwimg++"/>
+		</Unit>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/stb_image.h">
+			<Option target="uwimg++"/>
+		</Unit>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/stb_image_write.h">
+			<Option target="uwimg++"/>
+		</Unit>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/test/test0.cpp">
+			<Option target="test0"/>
+		</Unit>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/test/test1.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/utils.cpp">
+			<Option target="uwimg++"/>
+		</Unit>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/src/utils.h">
+			<Option target="uwimg++"/>
+		</Unit>
+		<Unit filename="/Users/lengmengying/Desktop/学习/CSE576_cv/cse576_sp20_hw1-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

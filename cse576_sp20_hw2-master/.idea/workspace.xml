@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cse576-2020sp-HW2" targetName="uwimg++" />
+      <config projectName="cse576-2020sp-HW2" targetName="test1" />
+      <config projectName="cse576-2020sp-HW2" targetName="test0" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Default" TOOLCHAIN_NAME="Default" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c19d754d-a8ff-4403-a526-39ad81f752e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Default" />
+  <component name="ProjectId" id="1aWGCRYJnnouwIZano7AsCtBgdX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="CMake Application.test1">
+    <configuration name="test0" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cse576-2020sp-HW2" TARGET_NAME="test0" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="cse576-2020sp-HW2" RUN_TARGET_NAME="test0">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cse576-2020sp-HW2" TARGET_NAME="test1" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="cse576-2020sp-HW2" RUN_TARGET_NAME="test1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uwimg++" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cse576-2020sp-HW2" TARGET_NAME="uwimg++" CONFIG_NAME="Default">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.test0" />
+      <item itemvalue="CMake Application.test1" />
+      <item itemvalue="CMake Application.uwimg++" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c19d754d-a8ff-4403-a526-39ad81f752e6" name="Default Changelist" comment="" />
+      <created>1586843808526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586843808526</updated>
+      <workItem from="1586843810639" duration="431000" />
+      <workItem from="1587207372031" duration="19000" />
+      <workItem from="1587334644407" duration="1640000" />
+      <workItem from="1587530906134" duration="6872000" />
+      <workItem from="1587542175814" duration="14870000" />
+      <workItem from="1587601768820" duration="681000" />
+      <workItem from="1587602475136" duration="151000" />
+      <workItem from="1587617613191" duration="924000" />
+      <workItem from="1587672240883" duration="931000" />
+      <workItem from="1587815619909" duration="20000" />
+      <workItem from="1588703122921" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="481" y="251" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587334907362">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="481" y="251" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.797@0.23.1440.797" timestamp="1587334907362" />
+    <state width="1253" height="132" key="GridCell.Tab.0.bottom" timestamp="1587673627875">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="888" height="183" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587541202094" />
+    <state width="633" height="183" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587536511776" />
+    <state width="1253" height="132" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1587673627875" />
+    <state width="1033" height="183" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587537845143" />
+    <state width="1253" height="132" key="GridCell.Tab.0.center" timestamp="1587673627874">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="888" height="183" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587541202093" />
+    <state width="633" height="183" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587536511775" />
+    <state width="1253" height="132" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1587673627874" />
+    <state width="1033" height="183" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587537845142" />
+    <state width="1253" height="132" key="GridCell.Tab.0.left" timestamp="1587673627874">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="888" height="183" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587541202092" />
+    <state width="633" height="183" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587536511774" />
+    <state width="1253" height="132" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1587673627874" />
+    <state width="1033" height="183" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587537845141" />
+    <state width="1253" height="132" key="GridCell.Tab.0.right" timestamp="1587673627874">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="888" height="183" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587541202094" />
+    <state width="633" height="183" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587536511775" />
+    <state width="1253" height="132" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1587673627874" />
+    <state width="1033" height="183" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587537845142" />
+    <state x="426" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1588703123359">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="426" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1588703123359" />
+  </component>
+</project>
